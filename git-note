@@ -1,0 +1,20 @@
+git init
+git add
+git status 
+git branch
+git log -pretty
+git diff -staged
+git rm
+git mv
+git checkout -b
+git commit -m
+git commit --amend
+git restore
+git checkout -- 
+git remote
+git fetch
+git pull
+git push
+git remote show
+git rebase
+git branch --no-merged master

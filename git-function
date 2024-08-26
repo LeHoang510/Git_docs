@@ -1,0 +1,19 @@
+~x trong do x la so lan di chuyen 
+^ di chuyen 1 lan len tren
+
+git reset de xoa cac commit hong 
+thuc hien them git push -f de cap nhat vi moi chi hoat dong tren local
+
+git revert tao cac commit moi co noi dung giong het noi dung muon quay ve 
+uu diem la giu lich su
+
+cherry-pick de sao chep va dan vao phan tiep theo
+
+rebase -i de sap xep
+
+tag de xac dinh phien ban nguon (tag la 1 branch khong thay doi duoc) va khi no gan voi 1 branch thi ta k the thay doi ke ca lich su
+
+describe <branch> => tag+so commit da thuc hien+commit hien tai
+
+
+
